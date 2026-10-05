@@ -1,5 +1,3 @@
-// First screen shown when the app opens; users enter a name and password here.
-// Pressing Sign In replaces Login with the Notes screen.
 import 'package:flutter/material.dart';
 
 import '../navigation/app_routes.dart';

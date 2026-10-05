@@ -1,5 +1,3 @@
-// Shows the Pinned destination when Pinned is selected in the bottom bar.
-// It supplies pinned sample notes to the shared note-list screen.
 import 'package:flutter/material.dart';
 
 import '../models/note.dart';

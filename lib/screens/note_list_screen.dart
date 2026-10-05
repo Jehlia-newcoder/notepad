@@ -1,5 +1,3 @@
-// Builds the note list shown on the Notes and Pinned tabs after sign-in.
-// Tap a note in that list to open its detail screen.
 import 'package:flutter/material.dart';
 
 import '../models/note.dart';

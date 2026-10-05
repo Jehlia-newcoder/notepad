@@ -15,12 +15,10 @@ class NotepadNavigationBar extends StatelessWidget {
         if (index == selectedTab) return;
 
         if (index == 2) {
-          // Push Folders on top; Back returns to the current Notes/Pinned page.
           Navigator.pushNamed(context, AppRoutes.folders);
           return;
         }
 
-        // Replace the current tab with Notes or Pinned.
         final route = index == 0 ? AppRoutes.notes : AppRoutes.pinned;
         Navigator.pushReplacementNamed(context, route);
       },

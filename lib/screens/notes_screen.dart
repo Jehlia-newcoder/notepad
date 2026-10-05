@@ -1,5 +1,3 @@
-// Shows the Notes destination after sign-in or when Notes is selected below.
-// It supplies the sample notes to the shared note-list screen.
 import 'package:flutter/material.dart';
 
 import '../models/note.dart';

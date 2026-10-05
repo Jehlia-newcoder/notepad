@@ -1,5 +1,3 @@
-// Shows the Folders destination selected from the bottom navigation bar.
-// The current UI is a plain list of folders; it has no nested tabs or folder pages.
 import 'package:flutter/material.dart';
 
 import '../widgets/notepad_app_bar.dart';

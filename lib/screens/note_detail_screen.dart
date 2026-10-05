@@ -1,5 +1,3 @@
-// Shows one note's title, date, and text after you tap it in Notes or Pinned.
-// This screen is visible until you press Back.
 import 'package:flutter/material.dart';
 
 import '../models/note.dart';
